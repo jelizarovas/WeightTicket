@@ -1,0 +1,24 @@
+{
+  "name": "weightticket",
+  "version": "0.0.1",
+  "description": "platform to get weight tickets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jelizarovas/WeightTicket.git"
+  },
+  "keywords": [
+    "truck",
+    "weight",
+    "tickets"
+  ],
+  "author": "Arnas Jelizarovas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jelizarovas/WeightTicket/issues"
+  },
+  "homepage": "https://github.com/jelizarovas/WeightTicket#readme"
+}
